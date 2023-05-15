@@ -8,4 +8,4 @@ To Run the app:-
 
 1. Clone this repo in your IDE
 2. Run Pub get
-3. Run main.dart"# Grocery_bloc_app" 
+3. Run main.dart
